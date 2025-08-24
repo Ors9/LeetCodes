@@ -12,11 +12,13 @@ Each solution is written as a **self-contained Java class** with:
 
 All solutions are stored as `.java` files, one per problem:
 
+```
 LeetCodes/
 ├── HindexLeetCode.java # Problem 274. H-Index
 ├── JumpGame2LeetCode.java # Problem 45. Jump Game II
 ├── TwoSumLeetCode.java # Problem 1. Two Sum
 └── ...
+```
 
 
 👉 Each file corresponds to one LeetCode problem.  
